@@ -1,0 +1,11 @@
+input[type="search"]:focus{
+    box-shadow: none;
+}
+.form-select{
+    box-shadow: none!important;
+
+}
+.form-check-input{
+    box-shadow: none!important;
+
+}
